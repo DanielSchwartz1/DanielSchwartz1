@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to Daniel Schwartz's GitHub Profile 👋
 
-<!--
-**DanielSchwartz1/DanielSchwartz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Daniel, SRE manager who likes to code and explore new technologies. Welcome to my GitHub space, where you can find some of my projects and contributions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm proficient in [Shell](https://en.wikipedia.org/wiki/Shell_script) scripting and [Python](https://www.python.org/).
+- 🌐 Check out my [personal website](https://schwartzdaniel.com) for more about me and my work - time flies, so posts might be old ;) 
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/danielschwartz1/)
+- [Xing](https://www.xing.com/profile/Daniel_Schwartz10)
+
+Feel free to explore the repositories, raise issues, and contribute if you find something that interests you.
+
+## 📫 How to reach me
+
+If you want to get in touch, feel free to reach out on [1daniel.schwartz1@gmail.com](mailto:1daniel.schwartz1@gmail.com).
+
+Thanks for visiting! 😊
