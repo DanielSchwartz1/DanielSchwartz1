@@ -16,6 +16,6 @@ Feel free to explore the repositories, raise issues, and contribute if you find 
 
 ## 📫 How to reach me
 
-If you want to get in touch, feel free to reach out on [1daniel.schwartz1@gmail.com](mailto:1daniel.schwartz1@gmail.com).
+If you want to get in touch, feel free to reach out via [Email](mailto:1daniel.schwartz1@gmail.com).
 
 Thanks for visiting! 😊
